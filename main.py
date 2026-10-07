@@ -874,7 +874,7 @@ def create_zip(
 
     print()
     print("=" * 60)
-    print("DONE")
+    print("The Images are done downloading! ^3^")
     print("=" * 60)
     print(
         "Downloaded:",
